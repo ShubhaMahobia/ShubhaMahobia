@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamahobia" alt="shubhamahobia" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
-
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **mahobiashubham4@gmail.com**
