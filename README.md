@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamahobia" alt="shubhamahobia" /></a> </p>
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Machine Learning - Deep learning - Gen AI**
 
 - 📫 How to reach me **mahobiashubham4@gmail.com**
 
