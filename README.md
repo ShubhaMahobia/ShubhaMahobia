@@ -180,7 +180,7 @@ class ShubhamMahobia:
 <img src="https://github-readme-stats.vercel.app/api?username=ShubhaMahobia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhaMahobia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhaMahobia&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=ShubhaMahobia&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
